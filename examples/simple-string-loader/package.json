@@ -8,10 +8,15 @@
     "build": "webpack --env production"
   },
   "keywords": [],
-  "author": "Marek Suscak <marek.suscak@gmail.com>",
+  "author": "aretecode <aretecode@gmail.com>",
+  "contributors": [
+    "aretecode <aretecode@gmail.com>",
+    "Marek Suscak <marek.suscak@gmail.com>"
+  ],
   "license": "ISC",
   "devDependencies": {
     "css-loader": "^0.28.0",
+    "fliplog": "^1.0.1",
     "handlebars": "^4.0.6",
     "handlebars-loader": "^1.5.0",
     "loader-utils": "^1.1.0",
